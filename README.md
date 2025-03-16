@@ -13,7 +13,7 @@ I'm Tingchih, a machine learning engineer.
 <table>
    <tr>
       <td valign="top" width="50%">
-         <img src="https://github-readme-stats.vercel.app/api?username=tingchihc&show_icons=true&count_private=true&hide_border=true" align="center" />
+         <img src="https://github-readme-stats.vercel.app/api?username=tingchihc&rank_icon=github&show_icons=true&count_private=true&hide_border=true" align="center" />
       </td>
       <td valign="top" width="50%">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tingchihc&hide_border=true&layout=compact" align="center" />
