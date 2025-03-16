@@ -21,6 +21,8 @@ I'm Tingchih, a machine learning engineer.
    </tr>
 </table>
 
+<!---
+
 ## Research Projects  
 
 * (ACL'24) [MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking](https://aclanthology.org/2024.acl-long.474.pdf)  
@@ -32,3 +34,5 @@ I'm Tingchih, a machine learning engineer.
 * [Fine-grained image captioning](https://github.com/tingchihc/CS5814-final-project)  
 * [Attacking On Disrupting-Deepfakes: Methodology Transferability And Perturbation Removal](https://github.com/tingchihc/CS5914-final-project)
 * [Heterogeneous Graph Network for Multi-page Document Visual Question Answering](https://github.com/tingchihc/CS6804-final-project)  
+
+-->
