@@ -1,4 +1,4 @@
-## Hi, I'm TC 👋  
+## Hi, I'm TC  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/tingcc01)  
 
 👋 I am a ML engineer.
