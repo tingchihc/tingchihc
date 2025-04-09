@@ -1,7 +1,14 @@
 ## Hi, I'm TC 👋  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/tingcc01)  
 
-I'm Tingchih, a machine learning engineer.
+👋 I am a ML engineer.
+
+### 👨‍💻 About Me:
+- 🤖 CS enthusiast with a passion for machine learning & deep learning
+- 🔬 Love researching cool ML/DL ideas and exploring how things work under the hood
+- 🛠️ Always building something — side projects are my weekend therapy
+- 🌱 Constantly learning, tinkering, and trying to make cool stuff happen
+
 
 ## Languages and Tools   
 
