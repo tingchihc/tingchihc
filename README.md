@@ -10,7 +10,8 @@
 - 🌱 Constantly learning, tinkering, and trying to make cool stuff happen
 
 ### 📘 Projects:
-- [Drinkshop](https://github.com/tingchihc/Drinkshop) built with Textual
+- [Drinkshop](https://github.com/tingchihc/Drinkshop)
+- [CarsRAG](https://github.com/tingchihc/rag_chatbot)  
 
 ## Languages and Tools   
 
