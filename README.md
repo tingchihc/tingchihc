@@ -9,6 +9,8 @@
 - 🛠️ Always building something — side projects are my weekend therapy
 - 🌱 Constantly learning, tinkering, and trying to make cool stuff happen
 
+### 📘 Projects:
+- [Drinkshop](https://github.com/tingchihc/Drinkshop) built with Textual
 
 ## Languages and Tools   
 
