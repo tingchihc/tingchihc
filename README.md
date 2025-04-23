@@ -11,7 +11,8 @@
 
 ### 📘 Projects:
 - [Drinkshop](https://github.com/tingchihc/Drinkshop)
-- [CarsRAG](https://github.com/tingchihc/rag_chatbot)  
+- [CarsRAG](https://github.com/tingchihc/rag_chatbot)
+- [customer_service](https://github.com/tingchihc/AI_customer_service)
 
 ## Languages and Tools   
 
