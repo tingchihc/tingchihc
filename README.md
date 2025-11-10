@@ -21,6 +21,8 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,javascript,php,bash,html,huggingface,opencv,pytorch,tensorflow,androidstudio,xcode,eclipse,visualstudio,jupyter,latex,aws,s3,docker,github,figma,androidstudio,cuda,linux,mongodb,redis"/>
 </a>
 
+<!---
+
 ## Github Stats
 
 <table>
@@ -33,6 +35,8 @@
       </td>
    </tr>
 </table>
+
+-->
 
 <!---
 
